@@ -34,7 +34,7 @@ body {
   font-size: 1.6rem;
   font-family: "Minecraft", serif;
   color: #ffffff;
-  background-color: #960f25; /* OVO JE BOJA IZMEDJU SLIKA KADA JE ONAJ PRELAZ BILA JE 0f0000, posle #140505 */
+  background-color: #42000b; /* OVO JE BOJA IZMEDJU SLIKA KADA JE ONAJ PRELAZ BILA JE 0f0000, posle #140505 */
 }
 body::before {
   /* never visible - this is used in jQuery to check the current MQ */
@@ -49,7 +49,7 @@ body::before {
 }
 
 a {
-  color: #535966
+  color: #42000b
   text-decoration: none;
 }
 
