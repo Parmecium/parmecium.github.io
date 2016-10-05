@@ -34,7 +34,7 @@ body {
   font-size: 1.6rem;
   font-family: "Minecraft", serif;
   color: #ffffff;
-  background-color: #f44265; /* OVO JE BOJA IZMEDJU SLIKA KADA JE ONAJ PRELAZ BILA JE 0f0000, posle #140505 */
+  background-color: #960f25; /* OVO JE BOJA IZMEDJU SLIKA KADA JE ONAJ PRELAZ BILA JE 0f0000, posle #140505 */
 }
 body::before {
   /* never visible - this is used in jQuery to check the current MQ */
@@ -130,7 +130,7 @@ Main Components
 
 .cd-half-block {
   background: #000000;
-  color: #f44265;     /* BOJA TEKSTA origina:#535966, dobre boje: #754747, #892d2d, #993333   */
+  color: #ff264a;     /* BOJA TEKSTA origina:#535966, dobre boje: #754747, #892d2d, #993333   */
 }
 .cd-half-block:nth-of-type(1) {
   height: 60vh;
