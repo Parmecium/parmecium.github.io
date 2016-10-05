@@ -130,7 +130,7 @@ Main Components
 
 .cd-half-block {
   background: #000000;
-  color:  #993333;     /* BOJA TEKSTA origina:#535966, dobre boje: #754747 ,#892d2d    */
+  color:  #f44274;     /* BOJA TEKSTA origina:#535966, dobre boje: #754747, #892d2d, #993333   */
 }
 .cd-half-block:nth-of-type(1) {
   height: 60vh;
