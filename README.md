@@ -1,6 +1,7 @@
 # parmecium.github.io
-Repository for the Parmecium website.  <3
 
-https://parmecium.github.io
+* Repository for the Parmecium website.
 
-![Alt text](/data/Parmecium BIG.gif?raw=true "Parmecium")
+* https://parmecium.github.io
+
+![Alt text](/img/Parmecium kiss BIG.gif?raw=true "Parmecium")
