@@ -33,7 +33,7 @@ html {
 body {
   font-size: 1.6rem;
   font-family: "Minecraft", serif;
-  color: #ffffff;
+  color: #000000;
   background-color: #000000; /* OVO JE BOJA IZMEDJU SLIKA KADA JE ONAJ PRELAZ BILA JE 0f0000, posle #140505 */
 }
 body::before {
@@ -49,7 +49,7 @@ body::before {
 }
 
 a {
-  color: #535966
+  color: #000000
   text-decoration: none;
 }
 
