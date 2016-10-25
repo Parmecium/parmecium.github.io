@@ -34,7 +34,7 @@ body {
   font-size: 1.6rem;
   font-family: "Minecraft", serif;
   color: #000000;
-  background-color: #000000; /* OVO JE BOJA IZMEDJU SLIKA KADA JE ONAJ PRELAZ BILA JE 0f0000, posle #140505 */
+  background-color: #000000; /* BOJA IZMEDJU SLIKA KADA JE ONAJ PRELAZ BILA JE 0f0000, posle #140505 */
 }
 body::before {
   /* never visible - this is used in jQuery to check the current MQ */
@@ -150,11 +150,11 @@ Main Components
   background-size: 200px 200px;
 }
 .cd-section:nth-of-type(3) .cd-half-block:first-of-type {
-  background-image: url("../img/Jon BIG.gif");
+  background-image: url("../img/Parmecium jump BIG.gif");
   background-size: 200px 200px;
 }
 .cd-section:nth-of-type(4) .cd-half-block:first-of-type {
-  background-image: url("../img/Parmecium jump BIG.gif");
+  background-image: url("../img/pinky4.png");
   background-size: 150px 170px;
 
 }
