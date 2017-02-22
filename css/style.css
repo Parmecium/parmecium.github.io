@@ -21,9 +21,9 @@ Primary style
 }
 
 *, *::after, *::before {
-  -webkit-box-sizing: hidden;
-  -moz-box-sizing: hidden;
-  box-sizing: hidden;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 html {
@@ -75,9 +75,6 @@ Main Components
   -moz-osx-font-smoothing: none;
   text-align: center;
   font-size: 2.6rem;
-  /* hide horizontal scrollbar on IE11 */
-  overflow-y: hidden; /* scroll */
-  overflow-x: hidden;
 }
 @media only screen and (min-width: 768px) {
   .cd-section h1 {
@@ -98,10 +95,6 @@ Main Components
   transform: translateZ(0);
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
-    /* hide horizontal scrollbar on IE11 */
-  overflow-y: hidden; /* scroll */
-  overflow-x: hidden;
-
 }
 
 .cd-block {
@@ -110,9 +103,6 @@ Main Components
   -ms-transform-origin: center center;
   -o-transform-origin: center center;
   transform-origin: center center;
-    /* hide horizontal scrollbar on IE11 */
-  overflow-y: hidden; /* scroll */
-  overflow-x: hidden;
 }
 .cd-section:first-of-type .cd-block {
   visibility: visible;
