@@ -218,8 +218,7 @@ Main Components
   height: 40px;
   width: 40px;
   /* image replace */
-  overflow-y: hidden; /* scroll */
-  overflow-x: hidden;
+  overflow: hidden;
   text-indent: 100%;
   white-space: nowrap;
   background: transparent url(../img/cd-icon-arrow.png) no-repeat center center;
