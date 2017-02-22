@@ -24,6 +24,9 @@ Primary style
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
+  ::-webkit-scrollbar 
+    display: none; 
+}
 }
 
 html {
@@ -37,11 +40,6 @@ body {
   background-color: #000000; /* BOJA IZMEDJU SLIKA KADA JE ONAJ PRELAZ BILA JE 0f0000, posle #140505 */
 
 }
-
-::-webkit-scrollbar { 
-    display: none; 
-}
-
 body::before {
   /* never visible - this is used in jQuery to check the current MQ */
   content: 'mobile';
